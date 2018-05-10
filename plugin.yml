@@ -1,0 +1,10 @@
+name: CloudSystem
+version: 3.0
+author: PrinxIsLeqit
+api: 3.0.0-ALPHA12
+main: PrinxIsLeqit\CloudSystem\CloudSystem
+description: CloudSystem
+commands:
+  cloud:
+    description: CloudSystem main command
+    aliases: [cloudsystem, system, c, cl]
